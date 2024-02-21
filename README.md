@@ -5,5 +5,3 @@
 # creating-daily-cards
 # creating-new-registration-component-registration-type
 # recording-expenses
-# recording-expenses
-# recording-expenses
